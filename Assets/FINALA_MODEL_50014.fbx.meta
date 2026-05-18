@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 33cd72831e53568498f3b09001f80889
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014BadgeA_Material1
+    second: {fileID: 2100000, guid: a0e0cc60ec09cb144a0e712c8b5bbd20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Base_Material1
+    second: {fileID: 2100000, guid: 81158a925153ff445a5927f5fbbf797b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014CalliperGloss_Material1
+    second: {fileID: 2100000, guid: 87133b33efe325a4f82df52b149ec789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Coloured_Material1
+    second: {fileID: 2100000, guid: bf08359e7d30c6a4f9a51f5200507ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014EngineA_Material1
+    second: {fileID: 2100000, guid: 73b3f6418ff98c04fb6337aba4b84b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Grille1A_Material1
+    second: {fileID: 2100000, guid: cc583ce591bc6a44eb1f3c9b6424092c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Grille2A_Material1
+    second: {fileID: 2100000, guid: 01c4b66c5bbc27f43b9a1ae4af3d98e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Grille3A_Material1
+    second: {fileID: 2100000, guid: 29b554ef962621a40a30db6c54847dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014InteriorA_Material1
+    second: {fileID: 2100000, guid: 2b5bc0d8e6851794fbcb9331c3f5268f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014InteriorColourZoneA_Material1
+    second: {fileID: 2100000, guid: 7629caaaead062e4ea094e405d085626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014InteriorTillingA_Material1
+    second: {fileID: 2100000, guid: 002d34ec9b0dd1b499fb429bdb274789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014InteriorTillingColourZoneA_Material1
+    second: {fileID: 2100000, guid: ad470bbd6834a0a45bcd6297ba3e1cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014LightA_Material1
+    second: {fileID: 2100000, guid: 2d460ddeff4ea2b41be83173c71f5aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014ManufacturerPlateA_Material1
+    second: {fileID: 2100000, guid: c8b0fe24bee86cf478ce1fe3e969e1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Paint_Material1
+    second: {fileID: 2100000, guid: cfa7b21daa53df14e9b08aabf4f1c570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Abarth_500_2014Window_Material1
+    second: {fileID: 2100000, guid: 9528c0085d4ddbc4ea32400d854600fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_light
+    second: {fileID: 2100000, guid: b7d62e81f4c7aa74494118169456826a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_glass
+    second: {fileID: 2100000, guid: 87f7e0f26bf888b48a062238a35b01d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: fc84eb80b9318a74491801b4a145b375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 5c1ff79e0ba4434478cce96bdeeaa45e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_paint
+    second: {fileID: 2100000, guid: 6b4d07eeff762b547bf6132e604a3318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_Abarth_500_2014_Wheel4B_3D_3DWheel4B_Material1
+    second: {fileID: 2100000, guid: c6377b80fd856614ab86a4f1663fa088, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_EngineA_Normal
+    second: {fileID: 2800000, guid: f7c52c83ecb4d28458230adcdf8c43db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: a1d1d01ef131eba4399021bc3030a1c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille1A_Normal
+    second: {fileID: 2800000, guid: 416c599f75effb04ead8b482e8f8960d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille2A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 118181ef8bdb0d344925d901ef00020f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille2A_Normal
+    second: {fileID: 2800000, guid: b2c76a687d2dca042a3b595603ef0861, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille3A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 102b9a3e568ce7740b55c9c7a98f5b55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Grille3A_Normal
+    second: {fileID: 2800000, guid: 03b6f0fdb8a741c47a44008c1aa71113, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_InteriorA_Normal
+    second: {fileID: 2800000, guid: 6a5e7ceff985c554b9ddad389eb99c05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_InteriorColourZoneA_Normal
+    second: {fileID: 2800000, guid: 6440ae526a75dc14a86d9241712e00ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_InteriorTillingA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 8241efe59ffe39e4492e82d54c47f722, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_InteriorTillingA_Normal
+    second: {fileID: 2800000, guid: b8664a6f1a160474d84c53c107e7f724, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_InteriorTillingColourZoneA_Normal
+    second: {fileID: 2800000, guid: 704080eb43abd0d468e6715c6e753730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_ManufacturerPlateA_Diffuse
+    second: {fileID: 2800000, guid: 50325f2240056c54189cc46ce7c8d6c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Abarth_500_2014_Wheel4A_Normal
+    second: {fileID: 2800000, guid: 41c7fb2aaa6be714c8ceb13edb682dce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BadgeA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 4b81202105ffda144b6d54bd973dfe5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EngineA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 01cc36f3046c3a14a96d91f76aab347a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Calliper_Normal
+    second: {fileID: 2800000, guid: e8144e33508fc35478e76621674f4d5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Coloured_Diffuse_P
+    second: {fileID: 2800000, guid: ab7192fb3a0dc3d42ad3dee426be5602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 73c1b436fc9289b4595181d6884b0fe3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LightA_Diffuse
+    second: {fileID: 2800000, guid: d54d37ea3589ef64499ec070f4c5900c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel4B_DiffuseAOSO
+    second: {fileID: 2800000, guid: eb8c8fd5db1a0044cae005b8e95857c9, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.35
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

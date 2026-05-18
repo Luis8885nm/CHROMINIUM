@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: a46e0bcf35d030f41ab802da55e031ea
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017BadgeA_Material1
+    second: {fileID: 2100000, guid: 87c716350a8e54646bb64c061c6b3b97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Base_Material1
+    second: {fileID: 2100000, guid: 16626d8add6a4ae439db229f2533eed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017CalliperBadgeA_Material1
+    second: {fileID: 2100000, guid: 83c78342fd9116b4e98bc732f7b5bc7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017CalliperGloss_Material1
+    second: {fileID: 2100000, guid: 8514300d4010a574784a7ccf6b964bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Carbon1_Material1
+    second: {fileID: 2100000, guid: 1b1596b081fba2c49a1e716aefcbae4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Coloured_Material1
+    second: {fileID: 2100000, guid: 0e6cb659623622a4c9883984873c901b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017EngineA_Material1
+    second: {fileID: 2100000, guid: 9ce9e59ad45cc40479defa8b934d105a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille1A_Material1
+    second: {fileID: 2100000, guid: 6839616cfb24317409371e14281516e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille2A_Material1
+    second: {fileID: 2100000, guid: 259772912525f8a438ac193cffa15d81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille3A_Material1
+    second: {fileID: 2100000, guid: ab766ce538f4ab2419e13dd0d77648a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille4A_Material1
+    second: {fileID: 2100000, guid: fa58dc0ceb7f6b0468294d304dfbecb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille5A_Material1
+    second: {fileID: 2100000, guid: dff82a9cf98bc8946b31261d383a1f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Grille6A_Material1
+    second: {fileID: 2100000, guid: 5c1f0f3c7d80cc54a847dee4065a21e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017InteriorA_Material1
+    second: {fileID: 2100000, guid: 17c1d01be5d642d4cac15cf107fb6eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017LightA_Material1
+    second: {fileID: 2100000, guid: 4c8b304b786d37147a82839e58bbc4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017ManufacturerPlateA_Material1
+    second: {fileID: 2100000, guid: be31e4ce51ad57a4b85547dcf82015f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Paint_Material1
+    second: {fileID: 2100000, guid: 1f29bf0c87952954083331af5a91f1d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017Window_Material1
+    second: {fileID: 2100000, guid: 3581405ac4f595a4aa3b7eb1e9e456a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quadrifoglio_AlfaRomeo_GiuliaQuadrifoglio_2017_Wheel1A_3D_3DWheel1A_Material1
+    second: {fileID: 2100000, guid: 6f740df286ab0cd41a2826978cb057ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_Int
+    second: {fileID: 2100000, guid: c003b02ac36b9984bb4a7e57a3ff4308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emiss
+    second: {fileID: 2100000, guid: b1e2206027e2d8a4d87f84dbeacd3b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_glass
+    second: {fileID: 2100000, guid: 580435a30e1f3b54491b738fceac3e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_glass
+    second: {fileID: 2100000, guid: 790ad1c9795b06d478f2b236eb207216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: e3bf052b79d803c47bab31c83dce5627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 43943323154963d43bc8d9b66e1bc9fc, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_EngineA_Normal
+    second: {fileID: 2800000, guid: 931a8d88254734d4fb542982e909e141, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille1A_Normal
+    second: {fileID: 2800000, guid: 5780a6423a29f7b4ab4ecb1c172f7682, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille2A_Normal
+    second: {fileID: 2800000, guid: 32d90608e362ab543ad3e32644c573b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille3A_Normal
+    second: {fileID: 2800000, guid: 1851248bd241f664685ec9998492d966, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille4A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 38def3e0c42fa4642b564bedc6a34966, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille4A_Normal
+    second: {fileID: 2800000, guid: e02e88c9a4ba89d43bcaaf790a4b2ff9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille5A_DiffuseAOSO
+    second: {fileID: 2800000, guid: d2623f9803b58f44e996fa5ec428937b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille5A_Normal
+    second: {fileID: 2800000, guid: c692adbd7d0668946aaed13afca9cc9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille6A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 80a7da5fa29ce694aaa7c4c203809fa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Grille6A_Normal
+    second: {fileID: 2800000, guid: f6a4f344f41dd6247a6c5f99a2750a19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 261a25200008c824ab78618153f44520, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_InteriorA_Emissive
+    second: {fileID: 2800000, guid: b46e733736138db4cb15019d6b40b8e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_InteriorA_Normal
+    second: {fileID: 2800000, guid: 083c83eedf1880f498a63c154ab47a39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_ManufacturerPlateA_Diffuse
+    second: {fileID: 2800000, guid: e25a7f6cd8d9bb7418abae8940deeb0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AlfaRomeo_GiuliaQuadrifoglio_2017_Wheel1A_Normal
+    second: {fileID: 2800000, guid: d5aa0f6fee9ec1540b711ac7e3c3ced4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BadgeA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 204dccf5787d77c449a560d2e655eed9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CalliperBadgeA_Diffuse
+    second: {fileID: 2800000, guid: 327df8da979b03440b71e047b6807aa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EngineA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 84affa5276c862f42a2d7ab85d57ff94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Calliper_Normal
+    second: {fileID: 2800000, guid: df84e40d87e191a419b3d2f61b1765b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Global_Texture_Coloured_Diffuse_P
+    second: {fileID: 2800000, guid: 7895fc9f3f43f1140ad2497d51098da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grille1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 47dac56ad57b1044ca6beed0a0d6df98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grille2A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 8050bfb3b791c9c429b7e97ad1a64f4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grille3A_DiffuseAOSO
+    second: {fileID: 2800000, guid: 8b0799449d6127346923f0a41c933b90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: InteriorA_DiffuseAOSO
+    second: {fileID: 2800000, guid: 04362f0cf6ce64d42892e4d1e63ceff2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LightA_Diffuse
+    second: {fileID: 2800000, guid: 3b6dddef250963a40924970b88164dfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel1A_DiffuseAOSO
+    second: {fileID: 2800000, guid: ee3b32bdd56f14f46bcf64199df5c4de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_black_diff
+    second: {fileID: 2800000, guid: 59cdc080b905e9240bdc072eb5e6695e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: common_carbon05_norm
+    second: {fileID: 2800000, guid: db9d970b2fb82c94589ae3d04eae2d71, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 35
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="LogoFiat500Abarth3" size="1.000000 1.000000" />
+    <ImageTarget name="LogoAlfaRomeoGiulietta" size="1.000000 1.000000" />
+    <ImageTarget name="LogoAlfaRomeoGiulia" size="1.000000 1.000000" />
+    <ImageTarget name="LogoJeepWrangler" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
